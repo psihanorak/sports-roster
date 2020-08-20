@@ -1,0 +1,11 @@
+{
+  "firebaseConfig": {
+    "apiKey": "AIzaSyBMXNH4-UMmhIRxB5yPo4B2Xtx-AeaITS8",
+    "authDomain": "sports-roster-7311d.firebaseapp.com",
+    "databaseURL": "https://sports-roster-7311d.firebaseio.com",
+    "projectId": "sports-roster-7311d",
+    "storageBucket": "sports-roster-7311d.appspot.com",
+    "messagingSenderId": "696220644138",
+    "appId": "1:696220644138:web:02eed39ebab719a26e6453"
+  }
+}
