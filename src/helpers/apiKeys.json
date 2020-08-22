@@ -1,5 +1,5 @@
 {
-  "firebaseConfig": {
+  "firebaseKeys": {
     "apiKey": "AIzaSyBMXNH4-UMmhIRxB5yPo4B2Xtx-AeaITS8",
     "authDomain": "sports-roster-7311d.firebaseapp.com",
     "databaseURL": "https://sports-roster-7311d.firebaseio.com",
