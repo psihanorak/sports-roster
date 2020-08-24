@@ -26,10 +26,16 @@ class Team extends React.Component {
     this.getPlayers();
   }
 
+  deletePlayer = (playerId) => {
+    playerData.deletePlayer(playerId)
+      .then(() => this.getPlayers())
+      .catch((err) => console.error('deletePlayer did not work!', err));
+  }
+
   render() {
     const { players } = this.state;
 
-    const playerCard = players.map((player) => <Player key={player.id} player={player} />);
+    const playerCard = players.map((player) => <Player key={player.id} player={player} deletePlayer={this.deletePlayer} />);
 
     return (
       <div className="team-container team-page">
@@ -38,7 +44,5 @@ class Team extends React.Component {
     );
   }
 }
-
-// <img src="https://wallpaperaccess.com/full/1947580.jpg" className="img-fluid" alt="Tennessee Titans" />
 
 export default Team;
