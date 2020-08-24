@@ -36,7 +36,12 @@ class App extends React.Component {
 
     const loadComponent = () => {
       if (authed) {
-        return <TeamComponent />;
+        return (
+          <div>
+            <Navbar authed={authed} />
+            <TeamComponent />
+          </div>
+        );
       }
 
       return <Auth />;
@@ -44,7 +49,6 @@ class App extends React.Component {
 
     return (
       <div className="App">
-        <Navbar authed={authed} />
         {loadComponent()}
       </div>
     );
