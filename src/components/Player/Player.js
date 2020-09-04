@@ -25,9 +25,10 @@ class Player extends React.Component {
         <img className="card-img-top" src={player.imageUrl} alt={player.name} />
         <div className="card-body">
           <h4 className="card-title">{player.name}</h4>
-          <p className="card-text">Jersey: #{player.jersey}</p>
-          <p className="card-text">{player.position}</p>
+          <p className="card-text">Jersey #: {player.jersey}</p>
+          <p className="card-text">Position: {player.position}</p>
           <button type="button" className="btn btn-danger" onClick={this.deletePlayerEvent}>Release</button>
+          <button className="btn btn-secondary" onClick={this.editPlayerEvent}><i className="far fa-edit"></i></button>
         </div>
       </div>
     );

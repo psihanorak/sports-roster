@@ -1,119 +1,93 @@
-[
-  {
-    "id": 1,
+{
+  "player1": {
     "imageUrl": "https://www.sportscasting.com/wp-content/uploads/2019/12/Ryan-Tannehill.jpg",
     "name": "Ryan Tannehill",
     "position": "Quarterback",
     "jersey": 17,
-    "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-    "teamId": "team1"
+    "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 2,
+  "player2": {
   "imageUrl": "https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-DERRICKHENRY-1203.jpg",
   "name": "Derrick Henry",
   "position": "Running Back",
   "jersey": 22,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 3,
+  "player3": {
   "imageUrl": "https://titanswire.usatoday.com/wp-content/uploads/sites/43/2019/12/usatsi_13710455.jpg?w=1000&h=600&crop=1",
   "name": "A.J. Brown",
   "position": "Wide Receiver",
   "jersey": 11,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 4,
+  "player4": {
   "imageUrl": "https://cdn.vox-cdn.com/thumbor/aL_tCa1A1PsVS96T3L8XMJz7f9Y=/0x0:3600x2400/1200x800/filters:focal(1094x372:1670x948)/cdn.vox-cdn.com/uploads/chorus_image/image/62611987/usa_today_11777895.0.jpg",
   "name": "Corey Davis",
   "position": "Wide Receiver",
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
   "jersey": 84,
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 5,
+  "player5": {
   "imageUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/titans/f5akl5chl5m658ljg9jx",
   "name": "Adam Humphries",
   "position": "Wide Receiver",
   "jersey": 10,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 6,
+  "player6": {
   "imageUrl": "https://titansized.com/wp-content/uploads/getty-images/2016/04/1195442255.jpeg",
   "name": "Kalif Raymond",
   "position": "Wide Receiver",
   "jersey": 14,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 7,
+  "player7": {
   "imageUrl": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Ftitansized.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1060269012-850x560.jpeg",
   "name": "Jonnu Smith",
   "position": "Tight End",
   "jersey": 81,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 8,
+  "player8": {
   "imageUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/titans/prqqa0094fcnwa3k2zql",
   "name": "Anthony Firkser",
   "position": "Tight End",
   "jersey": 86,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 9,
+  "player9": {
   "imageUrl": "https://www.toledoblade.com/image/2019/07/25/1140x_a10-7_cTC/Patriots-Titans-Football-1.jpg",
   "name": "Taylor Lewan",
   "position": "Tackle",
   "jersey": 77,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 10,
+  "player10": {
   "imageUrl": "https://cdn.vox-cdn.com/thumbor/B13GWDhyR0yvnjpu_eQVEdkSiqQ=/0x0:2186x1737/1200x800/filters:focal(656x607:1004x955)/cdn.vox-cdn.com/uploads/chorus_image/image/65158187/usa_today_13262630.0.jpg",
   "name": "Dennis Kelly",
   "position": "Tackle",
   "jersey": 71,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 11,
+  "player11": {
   "imageUrl": "https://images.saymedia-content.com/.image/MTcwMDQ0MDI5MTIyMTI3MjI1/saffoldrodger-afterthesnap.jpg",
   "name": "Roger Saffold",
   "position": "Guard",
   "jersey": 76,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 12,
+  "player12": {
   "imageUrl": "https://www.wkrn.com/wp-content/uploads/sites/73/2019/09/AP_19252799398730.jpg?w=2560&h=1440&crop=1",
   "name": "Jamil Douglas",
   "position": "Guard",
   "jersey": 75,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   },
-  {
-  "id": 13,
+  "player13": {
   "imageUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/titans/biw2abahhdix5o00aczx",
   "name": "Ben Jones",
   "position": "Center",
   "jersey": 60,
-  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12",
-  "teamId": "team1"
+  "uid": "Wz9W8gb5Z3Oy6yiRgZQX3X761W12"
   }
-]
+}
