@@ -25,11 +25,11 @@ class Navbar extends React.Component {
         <a className="navbar-brand" href="https://www.tennesseetitans.com">
           <img src="https://1000logos.net/wp-content/uploads/2018/06/Tennessee-Titans-Logo-768x432.png" alt="Titans Logo" />
         </a>
-          {
-            authed
-              ? <button type="button" className="btn btn-primary" onClick={this.logoutClickEvent}>Logout</button>
-              : <Auth />
-          }
+        {
+          authed
+            ? <button type="button" className="btn btn-primary logout-btn" onClick={this.logoutClickEvent}>Logout</button>
+            : <Auth />
+        }
       </nav>
     );
   }
