@@ -1,0 +1,22 @@
+
+form {
+  display: inline-block;
+  padding-top: 1rem;
+  label {
+    color: #ffffff;
+  }
+  .form-control {
+    width: 500px;
+  }
+  .btn-primary {
+    background-color: #4395d1;
+    margin-right: 1rem;
+  }
+  .btn-dark {
+    background-color: #002a5c;
+  }
+  .btn-secondary {
+    background-color: #9b9597;
+    margin-left: 1rem;
+  }
+}
