@@ -16,5 +16,7 @@ You will also see any lint errors in the console.
 ## Developer
 * Phonesalo Sihanorak
 
+## Screenshot
+![Screen Shot 2020-09-04 at 9 48 00 PM](https://user-images.githubusercontent.com/61893644/92294248-7de9dd00-eef8-11ea-98d1-7984ed0b9a1d.png)
 
 
